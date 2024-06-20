@@ -1,6 +1,6 @@
 **TapAndPayApplication**
 **##Overview**
-This is a simple Java Maven project designed to simulate a simplified version of a system, where passengers tap their credit cards on card readers when boarding and alighting from buses. The fare is calculated based on the stops where they tap on and off.
+This is a simple Java Maven project designed to simulate simplified version of a system, where passengers tap their credit cards on card readers when boarding and alighting from buses. The fare is calculated based on the stops where they tap on and off.
 
 **##Prerequisites**
 Before you begin, ensure you have the following installed on your machine:
