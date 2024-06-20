@@ -1,0 +1,5 @@
+started,finished,durationSecs,fromStopId,toStopId,chargeAmount,companyId,panId,busId,status
+22-01-2023 13:00:00,22-01-2023 13:05:00,300,Stop1,Stop2,3.25,Company1,5500005555555559,Bus37,Completed
+22-01-2023 09:20:00,22-01-2023 09:21:00,60,Stop3,Stop3,0.0,Company1,4111111111111111,Bus36,Cancelled
+23-01-2023 08:00:00,23-01-2023 08:10:00,600,Stop1,Stop2,3.25,Company1,4111111111111111,Bus37,Completed
+24-01-2023 16:30:00,,,Stop2,,5.5,Company1,5500005555555559,Bus37,Incomplete
