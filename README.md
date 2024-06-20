@@ -1,11 +1,11 @@
-TapAndPayApplication
-Overview
+#TapAndPayApplication
+##Overview
 This is a simple Java Maven project designed to simulate a simplified version of a system, where passengers tap their credit cards on card readers when boarding and alighting from buses. The fare is calculated based on the stops where they tap on and off.
 
-Prerequisites
+##Prerequisites
 Before you begin, ensure you have the following installed on your machine:
 
-Java Development Kit (JDK) 11 or higher
+##Java Development Kit (JDK) 11 or higher
 IntelliJ IDEA
 Apache Maven (if not bundled with IntelliJ IDEA)
 Getting Started
@@ -13,8 +13,7 @@ Step 1: Clone the Repository
 First, clone the repository to your local machine using Git:
 bash
 Copy code
-git clone  https://github.com/twinkle12b/TapAndTravelProject.git
-cd simple-java-maven-project
+git clone  https://github.com/twinkle12b/TapAndTravelProject.git or download the source code zip file
 Step 2: Open the Project in IntelliJ IDEA
 Open IntelliJ IDEA.
 Click on File -> Open.
@@ -49,11 +48,9 @@ src/test/java: The test source directory.
 Dependencies
 The project uses the following dependencies:
 OpenCSV 5.9 for CSV to POJO and POJO to CSV conversion.
-
-JUnit 4.13.2, Mockito 5.4.0, ASSERTJ 3.4.1  (for testing)
+JUnit 4.13.2, Mockito 5.4.0, ASSERTJ 3.4.1 (for testing)
 These dependencies are specified in the pom.xml file.
 
 
 Contact
 If you have any questions or suggestions, please feel free to contact me at twinkle.bahl@gmail.com.
-
